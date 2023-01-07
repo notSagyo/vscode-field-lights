@@ -273,6 +273,9 @@
     "_f_todo": {
       "iconPath": "../file_type_todo@2x.png"
     },
+    "_f_tsx": {
+      "iconPath": "../file_type_tsx@2x.png"
+    },
     "_f_twig": {
       "iconPath": "../file_type_twig@2x.png"
     },
@@ -391,6 +394,8 @@
     "java": "_f_java",
     "julia": "_f_julia",
     "js": "_f_js",
+    "mjs": "_f_js",
+    "cjs": "_f_js",
     "jsp": "_f_jsp",
     "less": "_f_less",
     "enc": "_f_license",
@@ -448,7 +453,7 @@
     "r": "_f_R",
     "jsx": "_f_jsx",
     "rt": "_f_react",
-    "tsx": "_f_react",
+    "tsx": "_f_tsx",
     "rb": "_f_ruby",
     "gemspec": "_f_ruby",
     "rs": "_f_rust",
@@ -473,6 +478,8 @@
     "txt": "_f_text",
     "twig": "_f_twig",
     "ts": "_f_typescript",
+    "mts": "_f_typescript",
+    "cts": "_f_typescript",
     "vue": "_f_vue",
     "yml": "_f_yaml",
     "yaml": "_f_yaml",
